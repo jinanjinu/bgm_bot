@@ -1,2 +1,1 @@
-# bgm_bot
-The Hard Method GET QR $ apt update $ apt install nodejs --fix-missing $ pkg install git $ git clone https://github.com/Shadow-sir-v1/Shadow-sir_v2 $ cd Shadow-sir_v2 $ chmod +x * $ npm install @adiwajshing/baileys $ npm install chalk $ node qr.js SETUP $ git clone https://github.com/Shadow-sir-v1/Shadow-sir_v2 $ cd Shadow-sir_v2 $ chmod +x * $ npm i $ node qr.js    // scan the qr using whatsapp web on your phone $ node bot.js
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FShadow-Sir-V1%2FShadow-sir_V2&template=https%3A%2F%2Fgithub.com%2FShadow-sir-v1%2FShadow-sir_v2
